@@ -5,6 +5,7 @@
         <p>Tu będzie instrukcja</p>
         <h2 align="center">Komendy</h2>
         <h3>Dla moderacji</h3>
+        <p>channels</p>
         <p>join</p>
         <p>leave</p>
         <p>permit</p>

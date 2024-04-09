@@ -1,6 +1,5 @@
 <body>
-    <div align="center">
-        <h2>Opis bota</h2>
+        <h2 align="center">Opis bota</h2>
         <p>Tu będzie opis</p>
 
         <h2>Jak dodać</h2>
@@ -16,6 +15,5 @@
 
         <h3>Dla każdego</h3>
         <p>ser</p>
-    </div>
 
 </body>

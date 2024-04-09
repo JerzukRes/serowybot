@@ -1,9 +1,9 @@
 <body>
         <h2 align="center">Opis bota</h2>
         <p>Tu będzie opis</p>
-        <h2>Jak dodać</h2>
+        <h2 align="center">Jak dodać</h2>
         <p>Tu będzie instrukcja</p>
-        <h2>Komendy</h2>
+        <h2 align="center">Komendy</h2>
         <h3>Dla moderacji</h3>
         <p>join</p>
         <p>leave</p>

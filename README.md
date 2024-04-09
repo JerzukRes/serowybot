@@ -1,5 +1,5 @@
 <body>
-        <h2 align="center">Opis bota</h2>
+        <h2>Opis bota</h2>
         <p>Tu będzie opis</p>
 
         <h2>Jak dodać</h2>

@@ -1,16 +1,12 @@
 <body>
-        <h2 align="center">Opis bota</h2>
-        <p>Tu będzie opis</p>
-        <h2 align="center">Jak dodać</h2>
-        <p>Tu będzie instrukcja</p>
-        <h2 align="center">Komendy</h2>
-        <h3>Dla serów</h3>
+        <h1 align="center">Komendy</h1>
+        <h2>Dla serów</h2>
         <p>channels</p>
         <p>join</p>
         <p>leave</p>
         <p>permit</p>
         <p>send</p>
-        <h3>Dla każdego</h3>
+        <h2>Dla każdego</h2>
         <p>ser</p>
 
 </body>

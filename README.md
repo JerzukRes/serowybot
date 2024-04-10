@@ -2,7 +2,7 @@
 # Serowy bot <img src="https://cdn.7tv.app/emote/63642e86f3bf5ec8e10c8db5/1x.webp">
 
 
-## Opis bota
+## Opis bota <img src="https://cdn.7tv.app/emote/64be59aa9a49e5f24ed7db24/1x.webp"><img src="https://cdn.7tv.app/emote/62e7467c28c95e70a6026cb3/1x.webp">
 serowy to jest staff rola pielęgniarki w opiece zdrowotnej
 
 ## Jak dodać bota <img src="https://cdn.7tv.app/emote/6155614b20eaf897465af006/1x.webp">
